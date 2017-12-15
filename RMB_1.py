@@ -7,7 +7,7 @@ replace_zero = [
     (u'零', u'零', u'零', u'零', u'零', u'万', u'圆')
     ]
 
-a = -3608400
+a = -10670207
 b = abs(a)
 new = []
 for i in str(b):
