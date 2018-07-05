@@ -1,0 +1,16 @@
+<collection shelf="New Arrivals">
+<movie title="Enemy Behind">
+   <type>War, Thriller</type>
+   <year>2003</year>
+   <rating>PG</rating>
+   <stars>10</stars>
+   <description>Talk about a US-Japan war</description>
+<studio>XX</studio></movie>
+<movie title="Transformers">
+   <type>Anime, Science Fiction</type>
+   <year>1989</year>
+   <rating>R</rating>
+   <stars>8</stars>
+   <description>A schientific fiction</description>
+<studio>XX</studio></movie>
+</collection>
